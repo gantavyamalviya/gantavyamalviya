@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [here](https://1drv.ms/b/s!Apgp1XpUdr1-hQbfSj23ToF92zWE)
 
-- 🔧 All my projects are hosted on my profile. Feel free to move around in case you're looking for ideas or contributions.
+<!-- - 🔧 All my projects are hosted on my profile. Feel free to move around in case you're looking for ideas or contributions. -->
 
 <h3 align="left">Connect with me:</h3>
 Feel free to reach out to me on LinkedIn for anything!
