@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 Feel free to reach out to me on LinkedIn for anything!
 <p align="left">
-<a href="https://linkedin.com/in/gantavyamalviya" target="blank"><img align="center" src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="gantavyamalviya" height="30" width="20" /></a>&nbsp
-<a href="https://instagram.com/gantavyamalviya" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" alt="yashrajkakkad" height="30" width="20" /></a>&nbsp
+<a href="https://linkedin.com/in/gantavyamalviya" target="blank"><img align="center" src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="gantavyamalviya" height="30" width="30" /></a>&nbsp
+<a href="https://instagram.com/gantavyamalviya" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" alt="yashrajkakkad" height="30" width="30" /></a>&nbsp
 <a href="https://www.codechef.com/users/enthusiastic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashrajkakkad" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gantavyamalviya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="yashrajkakkad" height="30" width="40" /></a>
 <!--
