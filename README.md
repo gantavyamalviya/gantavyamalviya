@@ -34,8 +34,8 @@ Feel free to reach out to me on LinkedIn for anything!
 ![Gantavya's github stats](https://github-readme-stats.vercel.app/api?username=gantavyamalviya&show_icons=true&hide_border=true&theme=tokyo&count_private=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gantavyamalviya&layout=compact&theme=tokyon)
 
-![Gantavya's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=gantavyamalviya)
-
+<!-- ![Gantavya's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=gantavyamalviya)
+ -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gantavyamalviya&theme=github&count_private=true)  
 
 
