@@ -12,6 +12,8 @@
 
 - 🔧 All my projects are hosted on my profile. Feel free to move around in case you're looking for ideas or contributions.
 
+- 🔭 You can see my blogs [here](https://gantavyamalviya.medium.com)
+
 <h3 align="left">Connect with me:</h3>
 Feel free to reach out to me on LinkedIn for anything!
 <p align="left">
