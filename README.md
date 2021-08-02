@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif">
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gantavyamalviya&label=Profile%20views&color=0e75b6&style=flat" alt="gantavya" /> </p>
 
 <!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
 
