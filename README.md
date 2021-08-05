@@ -6,9 +6,10 @@
 
 [![views](https://komarev.com/ghpvc/?username=gantavyamalviya&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/gantavyamalviya)
 [![Linkedin](https://img.shields.io/badge/-gantavyamalviya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gantavyamalviya/)](https://www.linkedin.com/in/gantavyamalviya/)
-[![Instagram](https://img.shields.io/badge/-gantavyamalviya-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gantavyamalviya/)](https://www.linkedin.com/in/gantavyamalviya/)
+[![Instagram](https://img.shields.io/badge/-gantavyamalviya-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gantavyamalviya/)](https://www.instagram.com/gantavyamalviya/)
 [![GitHub](https://img.shields.io/github/followers/gantavyamalviya?label=follow&style=social)](https://github.com/gantavyamalviya)
 
+<img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
 
 <!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
 
@@ -30,13 +31,68 @@
 <a href="https://auth.geeksforgeeks.org/user/gantavyamalviya/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="gantavyamalviya/profile" height="30" width="40" /></a>
 </p>
 
+<br/>
 
+### Tools
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heroku.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />
+
+<br/>
+<br/>
+
+### Language
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+
+<br/>
+<br/>
+
+### Web Development Stack
+
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/mongodb.svg" />
+
+<br/>
+<br/>
+
+<!-- ### App Development Stack
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
+
+
+<br/>
+<br/> -->
+
+### Other Interests
+
+
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" />
+
+<br/>
+<br/>
+
+<hr/>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gantavyamalviya&show_icons=true&locale=en&layout=compact" alt="gantavya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gantavyamalviya&show_icons=true&locale=en" alt="gantavya" /></p>
  -->
+ 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gantavyamalviya&theme=tokyo&count_private=true)
-
 ![Gantavya's github stats](https://github-readme-stats.vercel.app/api?username=gantavyamalviya&show_icons=true&hide_border=true&theme=tokyo&count_private=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gantavyamalviya&layout=compact&theme=tokyon)
 
