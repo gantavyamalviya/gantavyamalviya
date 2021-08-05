@@ -4,10 +4,10 @@
 <img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif"/>
 </p>
 
-[![views](https://komarev.com/ghpvc/?username=gantavyamalviya&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/gantavyamalviya)
 [![Linkedin](https://img.shields.io/badge/-gantavyamalviya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gantavyamalviya/)](https://www.linkedin.com/in/gantavyamalviya/)
 [![Instagram](https://img.shields.io/badge/-gantavyamalviya-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gantavyamalviya/)](https://www.instagram.com/gantavyamalviya/)
 [![GitHub](https://img.shields.io/github/followers/gantavyamalviya?label=follow&style=social)](https://github.com/gantavyamalviya)
+[![views](https://komarev.com/ghpvc/?username=gantavyamalviya&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/gantavyamalviya)
 
 <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
 
