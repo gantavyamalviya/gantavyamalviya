@@ -3,11 +3,11 @@
 <p align="center">
 <img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif"/>
 </p>
-<!-- [![views: gantavya](https://komarev.com/ghpvc/?username=gantavyamalviya&label=Profile%20views&color=0e75b6&style=flat" alt="gantavya")] -->
-![Total Views](https://views.whatilearened.today/views/github/hastagAB/hastagAB.svg)
-[![Twitter: HastagAB](https://img.shields.io/twitter/follow/HastagAB?style=social)](https://twitter.com/HastagAB)
-[![Linkedin: HastagAB](https://img.shields.io/badge/-hastagab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hastagab/)](https://www.linkedin.com/in/hastagab/)
-[![GitHub hastagAB](https://img.shields.io/github/followers/hastagAB?label=follow&style=social)](https://github.com/hastagAB)
+
+[![views](https://komarev.com/ghpvc/?username=gantavyamalviya&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/gantavyamalviya)
+[![Linkedin](https://img.shields.io/badge/-gantavyamalviya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gantavyamalviya/)](https://www.linkedin.com/in/gantavyamalviya/)
+[![Instagram](https://img.shields.io/badge/-gantavyamalviya-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gantavyamalviya/)](https://www.linkedin.com/in/gantavyamalviya/)
+[![GitHub](https://img.shields.io/github/followers/gantavyamalviya?label=follow&style=social)](https://github.com/gantavyamalviya)
 
 
 <!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
