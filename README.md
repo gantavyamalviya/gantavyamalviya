@@ -21,16 +21,17 @@
 
 - 🔭 You can see my blogs [here](https://gantavyamalviya.medium.com)
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/gantavyamalviya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gantavyamalviya" height="30" width="40" /></a>
-<a href="https://instagram.com/gantavyamalviya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gantavyamalviya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/enthusiastic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gantavyamalviya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gantavyamalviya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="gantavyamalviya" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gantavyamalviya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="gantavyamalviya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gantavyamalviya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="gantavyamalviya" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gantavyamalviya/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="gantavyamalviya/profile" height="30" width="40" /></a>
-</p>
+<br/>
 
+### Coding Profiles
+
+<a href="https://www.codechef.com/users/enthusiastic" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gantavyamalviya" height="32" width="32" /></a>
+<a href="https://www.hackerrank.com/gantavyamalviya" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="gantavyamalviya" height="32" width="32" /></a>
+<!-- <a href="https://codeforces.com/profile/gantavyamalviya" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="gantavyamalviya" height="30" width="40" /></a> -->
+<a href="https://www.leetcode.com/gantavyamalviya" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="gantavyamalviya" height="32" width="32" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/gantavyamalviya/profile" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="gantavyamalviya/profile" height="30" width="40" /></a> -->
+
+<br/>
 <br/>
 
 ### Tools
