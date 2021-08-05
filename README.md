@@ -3,7 +3,12 @@
 <p align="center">
 <img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gantavyamalviya&label=Profile%20views&color=0e75b6&style=flat" alt="gantavya" /> </p>
+[![views: gantavya](https://komarev.com/ghpvc/?username=gantavyamalviya&label=Profile%20views&color=0e75b6&style=flat" alt="gantavya")]
+[![Twitter: gantavyamalviya](https://img.shields.io/twitter/follow/HastagAB?style=social)](https://twitter.com/HastagAB)
+[![Linkedin: gantavyamalviya](https://img.shields.io/badge/-hastagab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hastagab/)](https://www.linkedin.com/in/hastagab/)
+[![GitHub: gantavyamalviya](https://img.shields.io/github/followers/hastagAB?label=follow&style=social)](https://github.com/hastagAB)
+
+
 
 <!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
 
@@ -57,6 +62,10 @@
 <br>
     
 ![Metrics](https://metrics.lecoq.io/gantavyamalviya?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
+
+
     
 </details>
  -->
+
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-gantavyamalviya-red)](https://github.com/gantavyamalviya)
