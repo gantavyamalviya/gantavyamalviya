@@ -2,18 +2,20 @@
 
 <p align="center">
 <img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif"/>
-</p>
 
-[![Linkedin](https://img.shields.io/badge/-gantavyamalviya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gantavyamalviya/)](https://www.linkedin.com/in/gantavyamalviya/)
-[![Instagram](https://img.shields.io/badge/-gantavyamalviya-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gantavyamalviya/)](https://www.instagram.com/gantavyamalviya/)
-[![GitHub](https://img.shields.io/github/followers/gantavyamalviya?label=follow&style=social)](https://github.com/gantavyamalviya)
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gantavyamalviya/)](https://www.linkedin.com/in/gantavyamalviya/)
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/in/gantavyamalviya/)](https://www.twitter.com/in/gantavyamalviya/)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gantavyamalviya/)](https://www.instagram.com/gantavyamalviya/)
+[![Medium](https://img.shields.io/badge/-Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white&link=https://www.medium.com/@gantavyamalviya/)](https://www.medium.com/@gantavyamalviya/)
+[![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://www.github.com/gantavyamalviya/)](https://www.github.com/gantavyamalviya/)
 [![views](https://komarev.com/ghpvc/?username=gantavyamalviya&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/gantavyamalviya)
-
+</p>
 <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
 
 <!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
 
-- 🌱 I’m currently learning **Data Structures, Algorithms and Web Development**
+- 🌱 I’m currently learning **Data Structures, Algorithms and MERN Stack**
 
 - 📄 Know about my experiences [here](https://gantavyamalviya.github.io/resume.pdf)
 
