@@ -1,9 +1,8 @@
 <h1 align="center">Howdy GitHub-er <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">, Gantavya this side!</h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif"/>
-
-
+<img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif">
+ 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gantavyamalviya/)](https://www.linkedin.com/in/gantavyamalviya/)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/in/gantavyamalviya/)](https://www.twitter.com/in/gantavyamalviya/)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gantavyamalviya/)](https://www.instagram.com/gantavyamalviya/)
@@ -91,19 +90,28 @@
 <br/>
 <br/>
 
-<hr/>
+
+
+### Read my recent blogs here :
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gantavyamalviya/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gantavyamalviya/0" alt="Recent Article 0" /></a>&nbsp;&nbsp;
+
+
+
+
+
+<!-- <hr/> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gantavyamalviya&show_icons=true&locale=en&layout=compact" alt="gantavya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gantavyamalviya&show_icons=true&locale=en" alt="gantavya" /></p>
  -->
  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gantavyamalviya&theme=tokyo&count_private=true)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gantavyamalviya&theme=tokyo&count_private=true)
 ![Gantavya's github stats](https://github-readme-stats.vercel.app/api?username=gantavyamalviya&show_icons=true&hide_border=true&theme=tokyo&count_private=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gantavyamalviya&layout=compact&theme=tokyon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gantavyamalviya&layout=compact&theme=tokyon) -->
 
 <!-- ![Gantavya's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=gantavyamalviya)
  -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gantavyamalviya&theme=github&count_private=true)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gantavyamalviya&theme=github&count_private=true)   -->
 
 
 <!-- <p align="center">
@@ -128,5 +136,7 @@
     
 </details>
  -->
+
+<p><img src="https://user-images.githubusercontent.com/39916680/132490679-1b93cc7e-d718-4410-9f43-8a5387c2cc7a.png" alt="" /></p>
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-gantavyamalviya-red)](https://github.com/gantavyamalviya)
