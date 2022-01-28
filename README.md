@@ -26,7 +26,7 @@
 
 ### Coding Profiles
 
-<a href="https://www.codechef.com/users/enthusiastic" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gantavyamalviya" height="32" width="32" /></a>
+<a href="https://www.codechef.com/users/gantu" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gantavyamalviya" height="32" width="32" /></a>
 <a href="https://www.hackerrank.com/gantavyamalviya" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="gantavyamalviya" height="32" width="32" /></a>
 <a href="https://codeforces.com/profile/gantavyamalviya" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="gantavyamalviya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gantavyamalviya" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="gantavyamalviya" height="32" width="32" /></a>
