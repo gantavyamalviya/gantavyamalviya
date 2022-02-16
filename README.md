@@ -14,7 +14,7 @@
 
 <!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
 
-- 🌱 I’m currently learning **Data Structures, Algorithms and MERN Stack**
+- 🌱 I’m currently learning **Data Structures, Algorithms and JEE(Spring and Hibernate)**
 
 - 📄 Know about my experiences [here](https://gantavyamalviya.github.io/resume.pdf)
 
