@@ -40,12 +40,12 @@
 <br/>
 
 ### Tools
-<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" />
+<a href =""><img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" /></a>
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" /> -->
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" /> -->
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /> -->
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heroku.svg" /> -->
-<img align="left" height="32" width="32" src="https://img.icons8.com/officexs/160/000000/java-eclipse.png" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/officexs/160/000000/java-eclipse.png"  />
 <img align="left" height="32" width="32" src="https://img.icons8.com/stickers/100/000000/github.png" />
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />
  -->
@@ -57,7 +57,7 @@
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" />
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> -->
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> -->
-<img align="left" height="32" width="32" src="<https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v2.png" />
+<img align="left" height="37" width="37" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v2.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/external-others-phat-plus/128/000000/external-connection-browser-and-interface-blue-others-phat-plus-6.png" />
 
 
@@ -68,12 +68,12 @@
 
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/html-5--v1.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/css3.png" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> -->
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/mongodb.svg" />
- -->
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/spring-logo.png" />
+<!-- <img align="left" height="32" width="32" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/hibernate/hibernate-ar21.svg" /> -->
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+
 <br/>
 <br/>
 
@@ -88,8 +88,8 @@
 ### Other Interests
 
 
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/figma--v1.png" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/arduino.png" />
 
 <br/>
 <br/>
