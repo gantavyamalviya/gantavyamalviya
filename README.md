@@ -37,10 +37,11 @@
 <!-- <a href="https://auth.geeksforgeeks.org/user/gantavyamalviya/profile" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="gantavyamalviya/profile" height="30" width="40" /></a> -->
 
 <br/>
-<br/>
+
 
 ### Tools
-<a href =""><img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" /></a>
+<a href ="https://github.com/gantavyamalviya">
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" />
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" /> -->
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" /> -->
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /> -->
@@ -49,10 +50,12 @@
 <img align="left" height="32" width="32" src="https://img.icons8.com/stickers/100/000000/github.png" />
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />
  -->
-<br/>
+ </a>
 <br/>
 
+
 ### Language
+<a href ="https://github.com/gantavyamalviya">
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> -->
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" />
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> -->
@@ -60,21 +63,20 @@
 <img align="left" height="37" width="37" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v2.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/external-others-phat-plus/128/000000/external-connection-browser-and-interface-blue-others-phat-plus-6.png" />
 
+</a>
 
-<br/>
 <br/>
 
 ### Web Development Stack
-
+<a href ="https://github.com/gantavyamalviya">
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/html-5--v1.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/css3.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> -->
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/spring-logo.png" />
-<!-- <img align="left" height="32" width="32" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/hibernate/hibernate-ar21.svg" /> -->
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/tomcat.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
-
-<br/>
+</a>
 <br/>
 
 <!-- ### App Development Stack
@@ -86,11 +88,11 @@
 <br/> -->
 
 ### Other Interests
-
+<a href ="https://github.com/gantavyamalviya">
 
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/figma--v1.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/arduino.png" />
-
+</a>
 <br/>
 <br/>
 
