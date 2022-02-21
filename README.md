@@ -1,7 +1,7 @@
-<h1 align="center">Howdy GitHub-er <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">, Gantavya this side!</h1>
+<h1 align="center"> <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">Howdy GitHub-er, Gantavya this side!</h1>
 
-<p align="center">
-<img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif" width="300">
+<!-- <p align="center">
+<img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif" width="300"> -->
  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gantavyamalviya/)](https://www.linkedin.com/in/gantavyamalviya/)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/in/gantavyamalviya/)](https://www.twitter.com/in/gantavyamalviya/)
@@ -9,7 +9,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white&link=https://www.medium.com/@gantavyamalviya/)](https://www.medium.com/@gantavyamalviya/)
 [![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://www.github.com/gantavyamalviya/)](https://www.github.com/gantavyamalviya/)
 [![views](https://komarev.com/ghpvc/?username=gantavyamalviya&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/gantavyamalviya)
-</p>
+<!-- </p> -->
 <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
 
 <!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
