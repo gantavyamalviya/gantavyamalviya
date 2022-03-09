@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif" width="300"> -->
  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gantavyamalviya/)](https://www.linkedin.com/in/gantavyamalviya/)
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/in/gantavyamalviya/)](https://www.twitter.com/in/gantavyamalviya/)
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/gantavyamalviya/)](https://www.twitter.com/in/gantavyamalviya/)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gantavyamalviya/)](https://www.instagram.com/gantavyamalviya/)
 [![Medium](https://img.shields.io/badge/-Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white&link=https://www.medium.com/@gantavyamalviya/)](https://www.medium.com/@gantavyamalviya/)
 [![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://www.github.com/gantavyamalviya/)](https://www.github.com/gantavyamalviya/)
