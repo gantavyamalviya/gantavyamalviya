@@ -34,7 +34,7 @@
 
 <a href="https://www.leetcode.com/gantavyamalviya" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="gantavyamalviya" height="32" width="32" /></a>
 
-<a href="https://atcoder.jp/users/gantavyamalviya" target="blank"><img align="left" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="gantavyamalviya" height="40" width="37" /></a>
+<a href="https://atcoder.jp/users/gantavyamalviya" target="blank"><img align="left" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="gantavyamalviya" height="37" width="37" /></a>
 
 <!-- <a href="https://auth.geeksforgeeks.org/user/gantavyamalviya/profile" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="gantavyamalviya/profile" height="30" width="40" /></a> -->
 
@@ -47,11 +47,11 @@
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" /> -->
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" /> -->
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /> -->
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heroku.svg" /> -->
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/heroku.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/officexs/160/000000/java-eclipse.png"  />
 <img align="left" height="32" width="32" src="https://img.icons8.com/stickers/100/000000/github.png" />
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />
- -->
+<img align="left" height="32" width="32" src="https://img.icons8.com/officel/480/000000/react.png" />
+
  </a>
 <br/>
 
