@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://www.github.com/gantavyamalviya/)](https://www.github.com/gantavyamalviya/)
 [![views](https://komarev.com/ghpvc/?username=gantavyamalviya&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/gantavyamalviya)
 <!-- </p> -->
-<img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
+
 
 <!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
 
@@ -21,6 +21,9 @@
 - 🔧 All my projects are hosted on my profile. Feel free to move around in case you're looking for ideas or contributions.
 
 - 🔭 You can see my blogs [here](https://gantavyamalviya.medium.com)
+
+<img src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" align="right" width="300">
+
 
 <br/>
 
