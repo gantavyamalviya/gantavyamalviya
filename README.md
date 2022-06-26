@@ -33,7 +33,7 @@
 
 <a href="https://www.hackerrank.com/gantavyamalviya" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="gantavyamalviya" height="32" width="32" /></a>
 
-<a href="https://codeforces.com/profile/gantavyamalviya" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="gantavyamalviya" height="30" width="30" /></a>
+<!-- <a href="https://codeforces.com/profile/gantavyamalviya" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="gantavyamalviya" height="30" width="30" /></a> -->
 
 <a href="https://www.leetcode.com/gantavyamalviya" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="gantavyamalviya" height="32" width="32" /></a>
 
