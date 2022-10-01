@@ -78,7 +78,7 @@
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/css3.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> -->
-<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/spring-logo.png" />
+<!-- <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/spring-logo.png" /> -->
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/tomcat.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
 </a>
