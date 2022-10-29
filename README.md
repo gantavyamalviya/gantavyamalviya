@@ -13,8 +13,9 @@
 
 
 <!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
+- 💻 | SDE 1 @Amazon 🇩🇪 '23
 
-- 🌱 I’m currently learning **Data Structures, Algorithms and Web Development**
+- ❤️ | Content Creation, Tech & Communities
 
 - 📄 Know about my experiences [here](https://gantavyamalviya.github.io/resume.pdf)
 
