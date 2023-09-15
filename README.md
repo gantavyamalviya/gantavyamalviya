@@ -13,7 +13,7 @@
 
 
 <!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
-- 💻 | SDE 1 @Amazon 🇩🇪 '23
+- 💻 | Software Dev Engineer at Amazon 🇩🇪 
 
 - ❤️ | Content Creation, Tech & Communities
 
