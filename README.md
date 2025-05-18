@@ -13,9 +13,9 @@
 
 
 <!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
-- 💻 | Software Dev Engineer at Amazon 🇩🇪 
+- 💻 Software Dev Engineer at Amazon 🇩🇪 
 
-- ❤️ | Content Creation, Tech & Communities
+- ❤️ Content Creation, Tech & Communities
 
 - 📄 Know about my experiences [here](https://gantavyamalviya.github.io/resume.pdf)
 
@@ -54,8 +54,7 @@
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/heroku.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/officexs/160/000000/java-eclipse.png"  />
 <img align="left" height="32" width="32" src="https://img.icons8.com/stickers/100/000000/github.png" />
-<img align="left" height="32" width="32" src="https://img.icons8.com/officel/480/000000/react.png" />
-
+<img align="left" height="32" width="32" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" />
  </a>
 <br/>
 
@@ -64,23 +63,26 @@
 <a href ="https://github.com/gantavyamalviya">
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> -->
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" />
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> -->
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> -->
+<img align="left" height="32" width="32" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000" />
 <img align="left" height="37" width="37" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v2.png" />
+<img align="left" height="37" width="37" src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/external-others-phat-plus/128/000000/external-connection-browser-and-interface-blue-others-phat-plus-6.png" />
 
 </a>
 
 <br/>
 
-### Web Development Stack
+### Full-Stack Development 
 <a href ="https://github.com/gantavyamalviya">
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/html-5--v1.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/css3.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> -->
-<!-- <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/spring-logo.png" /> -->
+<img align="left" height="32" width="32" src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/spring-logo.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/tomcat.png" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/officel/480/000000/react.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
 </a>
 <br/>
@@ -127,7 +129,7 @@
  
 
 
-<!-- <details>
+<details>
 <summary>Detailed Summary</summary>
 <br>
     
@@ -136,7 +138,6 @@
 
     
 </details>
- -->
 
 <p><img src="https://user-images.githubusercontent.com/39916680/132490679-1b93cc7e-d718-4410-9f43-8a5387c2cc7a.png" alt="" /></p>
 
