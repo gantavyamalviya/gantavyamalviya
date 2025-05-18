@@ -113,31 +113,18 @@
 
 
 
-<!-- <hr/> -->
+<hr/> 
 
  
  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gantavyamalviya&theme=tokyo&count_private=true)
 ![Gantavya's github stats](https://github-readme-stats.vercel.app/api?username=gantavyamalviya&show_icons=true&hide_border=true&theme=tokyo&count_private=true) 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gantavyamalviya&layout=compact&theme=tokyon) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gantavyamalviya&layout=compact&theme=tokyon)
 
-<!-- ![Gantavya's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=gantavyamalviya)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gantavyamalviya&theme=github&count_private=true)  -->
 
 
  
-
-
-<details>
-<summary>Detailed Summary</summary>
-<br>
-    
-![Metrics](https://metrics.lecoq.io/gantavyamalviya?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
-
-
-    
-</details>
 
 <p><img src="https://user-images.githubusercontent.com/39916680/132490679-1b93cc7e-d718-4410-9f43-8a5387c2cc7a.png" alt="" /></p>
 
