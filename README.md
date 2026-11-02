@@ -13,9 +13,13 @@
 
 
 <!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
-- 💻 Software Dev Engineer at Amazon 🇩🇪 
+- 💻 Software Engineer at [talabat](https://www.talabat.com) (a [Delivery Hero](https://www.deliveryhero.com) company) 🇦🇪, previously Software Engineer at AWS 🇩🇪
+
+- 📍 Based in Dubai, UAE
 
 - ❤️ Content Creation, Tech & Communities
+
+- 🌐 Portfolio: [gantavyamalviya.github.io](https://gantavyamalviya.github.io)
 
 - 📄 Know about my experiences [here](https://gantavyamalviya.github.io/resume.pdf)
 
@@ -45,6 +49,19 @@
 <br/>
 
 
+### Featured Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [PingPong](https://github.com/gantavyamalviya/pingpong) | Full-stack social app to ping your friends | TypeScript |
+| [Portfolio](https://github.com/gantavyamalviya/gantavyamalviya.github.io) | Personal site, no framework or build step ([live](https://gantavyamalviya.github.io)) | HTML, CSS, JS |
+| [Competitive Programming](https://github.com/gantavyamalviya/competitive-programming) | Solutions and templates | C++ |
+| [LeetCode Solutions](https://github.com/gantavyamalviya/LeetCode-Solution) | Interview-prep problem solutions | C++ |
+| [Voicely](https://github.com/gantavyamalviya/Voicely) | Voice assistant that handles everyday tasks | Python |
+| [Shortest Path Visualizer](https://github.com/gantavyamalviya/Shortest-Path-Visualizer) | Dijkstra's algorithm visualized | JavaScript |
+
+<br/>
+
 ### Tools
 <a href ="https://github.com/gantavyamalviya">
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" />
@@ -68,6 +85,10 @@
 <img align="left" height="37" width="37" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v2.png" />
 <img align="left" height="37" width="37" src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/external-others-phat-plus/128/000000/external-connection-browser-and-interface-blue-others-phat-plus-6.png" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/python.png" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/typescript.png" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/kotlin.png" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/docker.png" />
 
 </a>
 
@@ -117,7 +138,7 @@
 
  
  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gantavyamalviya&theme=tokyo&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gantavyamalviya&theme=tokyonight&count_private=true)
 ![Gantavya's github stats](https://github-readme-stats.vercel.app/api?username=gantavyamalviya&show_icons=true&hide_border=true&theme=tokyo&count_private=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gantavyamalviya&layout=compact&theme=tokyon)
 
